@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "SSD1306")(type "KiCad")(uri "C:/Users/Jaymes G/Downloads/KiCad-SSD1306-128x64-0.1/KiCad-SSD1306-128x64-0.1/library/SSD1306.pretty")(options "")(descr ""))
   (lib (name "KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty-master")(type "KiCad")(uri "C:/Users/Jaymes G/Downloads/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty-master/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty-master")(options "")(descr ""))
+  (lib (name "Images")(type "KiCad")(uri "${KIPRJMOD}/Images")(options "")(descr ""))
 )
